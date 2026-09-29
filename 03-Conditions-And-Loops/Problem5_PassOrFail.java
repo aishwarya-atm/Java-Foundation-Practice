@@ -10,5 +10,6 @@ public class Problem5_PassOrFail {
         else{
             System.out.println("FAIL");
         }
+        sc.close();
     }
 }

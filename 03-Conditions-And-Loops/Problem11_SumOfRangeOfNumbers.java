@@ -9,5 +9,6 @@ public class Problem11_SumOfRangeOfNumbers{
             sum+=i;
         }
         System.out.println("Sum = "+sum);
+        sc.close();
     }
 }

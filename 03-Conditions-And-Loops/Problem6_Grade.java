@@ -19,5 +19,6 @@ public class Problem6_Grade {
         else{
             System.out.println("Fail");
         }
+        sc.close();
     }
 }

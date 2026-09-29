@@ -14,5 +14,6 @@ public class Problem3_GreatestOfTwoNumbers {
         else{
             System.out.println("Both are equal");
         }
+        sc.close();
     }
 }

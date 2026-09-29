@@ -10,5 +10,6 @@ public class Problem17_Factorial {
             fact*=i;
         }
         System.out.println("Factorial = "+fact);
+        sc.close();  
     }
 }

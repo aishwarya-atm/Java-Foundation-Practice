@@ -17,5 +17,6 @@ public class Problem18_PrimeNumber {
         else{
             System.out.println(n+" is not a prime number.");
         }
+        sc.close();  
     }
 }

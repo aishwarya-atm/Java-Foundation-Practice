@@ -13,5 +13,6 @@ public class Problem2_Positive_Negative {
         else{
             System.out.println(n + " is equal to zero");
         }
+        sc.close();
     }
 }

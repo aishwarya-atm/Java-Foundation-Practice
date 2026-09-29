@@ -12,5 +12,6 @@ public class Problem15_ReverseANumber {
         }
         System.out.println("Original digit: "+digit); 
         System.out.println("Reversed Digit = "+rev);
+        sc.close();  
     }
 }

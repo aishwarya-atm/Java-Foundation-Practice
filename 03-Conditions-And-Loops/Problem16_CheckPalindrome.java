@@ -16,5 +16,6 @@ public class Problem16_CheckPalindrome {
         else{
             System.out.println(digit+" is not a palindrome.");
         }
+        sc.close();  
     }
 }

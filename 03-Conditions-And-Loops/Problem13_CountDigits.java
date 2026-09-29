@@ -10,5 +10,6 @@ public class Problem13_CountDigits {
             n/=10;
         }
        System.out.println("Digit Count = "+ count);
+       sc.close();  
     }
 }

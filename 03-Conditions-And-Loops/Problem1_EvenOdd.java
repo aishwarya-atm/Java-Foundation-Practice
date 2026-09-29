@@ -10,5 +10,6 @@ public class Problem1_EvenOdd{
     else{
         System.out.println(n +" is odd number.");
     }
+    sc.close();
 }
 }

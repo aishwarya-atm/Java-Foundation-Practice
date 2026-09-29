@@ -7,5 +7,6 @@ public class Problem12_MultiplicationTable {
         for(int i=1;i<=16;i++){
             System.out.println(n+" * "+i+" = "+(n*i));
         }
+        sc.close();  
     }
 }

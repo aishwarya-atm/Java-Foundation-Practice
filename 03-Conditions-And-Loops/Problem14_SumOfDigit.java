@@ -9,5 +9,6 @@ public class Problem14_SumOfDigit {
             digit/=10;
         }
         System.out.println("Sum of the digit = "+sum);
+        sc.close();  
     }
 }

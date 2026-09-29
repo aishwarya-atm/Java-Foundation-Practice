@@ -15,5 +15,6 @@ public class Problem4_GreatestOfThreeNumbers {
     else{
         System.out.println(c + " is greater than other three numbers.");
     }
-  }  
+    sc.close();  
+  }
 }
